@@ -1,0 +1,29 @@
+ h1{
+    font-weight: 800;
+    color: rgb(129, 17, 180);
+    size: 100px;
+    font-style: italic;
+    border-radius: 40%;
+    background-color: rgba(200, 206, 211, 0.795);
+    border-radius: 50%;
+    box-shadow: inset;
+    
+
+ }
+ h2{
+    color: blue;
+background-color: aliceblue;
+ }
+ header{
+    font-style: italic;
+    padding-left: 3rem;
+
+ }
+ p1{
+    color: blue;
+    font-weight: 200%;
+    font-style: oblique;
+    max-block-size: 50%;
+ }
+ 
+ 
